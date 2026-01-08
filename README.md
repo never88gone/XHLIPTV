@@ -6,7 +6,7 @@
 
 TVOS上使用的IPTV的播放工具<br>
 TF地址<br>
-- [https://testflight.apple.com/join/](https://testflight.apple.com/)
+- [https://testflight.apple.com/join/EVsAuvZn](https://testflight.apple.com/join/EVsAuvZn)
 # 首页
 左侧显示功能列表，右边展示首页，首页显示订阅列表并且可以添加订阅
 <p align="center">
