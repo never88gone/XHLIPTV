@@ -22,7 +22,7 @@ TF地址<br>
   <img alt="小葫芦" src="screenshot/收藏.png" />
 </p>
 # 播放列表
-显示播放列表
+显示播放列表，可以检测网络状态，并且删除无法使用的频道
 <p align="center">
   <img alt="小葫芦" src="screenshot/播放列表.png" width ="400px"/>
 </p>
