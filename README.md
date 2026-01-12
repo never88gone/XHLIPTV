@@ -45,7 +45,7 @@ TF地址<br>
 
 ### releases
 
-- [releases.md](https://github.com/never88gone/HSBTVBrowser/blob/main/releases.md?plain=1)
+- [releases.md](https://github.com/never88gone/XHLIPTV/blob/main/releases.md?plain=1)
 
 ### Telegram Group
 -  [https://t.me/tanghulutvos](https://t.me/tanghulutvos)
