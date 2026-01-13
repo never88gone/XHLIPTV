@@ -1,7 +1,7 @@
 # 小葫芦IPTV
 
 <p align="center">
-  <img alt="小葫芦" src="screenshot/Logo.png"/>
+  <img alt="小葫芦" src="screenshot/1920*720.jpg"/>
 </p>
 
 TVOS上使用的IPTV的播放工具<br>
